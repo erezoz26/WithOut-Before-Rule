@@ -1,3 +1,4 @@
+/mavenTest/target/*
 *.class
 
 # Package Files #
